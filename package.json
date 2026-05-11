@@ -25,7 +25,7 @@
     "typescript": "^5.0.0",
     "@types/react": "^18.2.0",
     "@types/node": "^20.0.0",
-    "@types/three": "^r128",
+    "@types/three": "0.128.0",
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.0"
   }
