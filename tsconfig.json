@@ -3,7 +3,7 @@
     "target": "es2020",
     "useDefineForClassFields": true,
     "lib": ["es2020", "dom", "dom.iterable"],
-    "skip": ["node_modules"],
+    "skipLibCheck": true,
     "module": "esnext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
